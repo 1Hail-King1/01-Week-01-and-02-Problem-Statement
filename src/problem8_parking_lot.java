@@ -1,7 +1,3 @@
-// ============================================================
-// PROBLEM 8: Parking Lot with Open Addressing
-// FILE: Problem8_ParkingLot.java
-// ============================================================
 import java.util.*;
 
 public class problem8_parking_lot {
