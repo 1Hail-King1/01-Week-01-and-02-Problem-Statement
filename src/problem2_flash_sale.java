@@ -1,7 +1,3 @@
-// ============================================================
-// PROBLEM 2: E-commerce Flash Sale Inventory Manager
-// FILE: Problem2_InventoryManager.java
-// ============================================================
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.*;

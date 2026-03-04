@@ -1,7 +1,3 @@
-// ============================================================
-// PROBLEM 3: DNS Cache with TTL
-// FILE: Problem3_DNSCache.java
-// ============================================================
 import java.util.*;
 
 public class problem3_dns_cache {
