@@ -1,7 +1,3 @@
-// ============================================================
-// PROBLEM 5: Real-Time Analytics Dashboard
-// FILE: Problem5_AnalyticsDashboard.java
-// ============================================================
 import java.util.*;
 import java.util.stream.*;
 
